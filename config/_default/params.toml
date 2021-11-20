@@ -1,0 +1,5 @@
+colorScheme = 'ocean'
+darkToggle = 'true'
+
+[homepage]
+layout = 'profile'
