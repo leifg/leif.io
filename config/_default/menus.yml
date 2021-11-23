@@ -1,0 +1,10 @@
+main:
+  - name: Blog
+    pageRef: blog
+    weight: 10
+  - name: Schlockchain
+    pageRef: schlockchain
+    weight: 20
+  - name: About
+    pageRef: about
+    weight: 30
