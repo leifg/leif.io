@@ -1,6 +1,6 @@
 {{ define "main" }}
   {{ partial "section-header.html" . }}
-  {{ $pages := where .Site.RegularPages "Params.tags" "intersect" (slice "ruby") }}
+  {{ $pages := where .Site.RegularPages "Params.tags" "intersect" (slice "blockchain") }}
   {{ if gt $pages 0 }}
     <section>
       {{ range (.Paginate ($pages.GroupByDate "2006")).PageGroups }}
