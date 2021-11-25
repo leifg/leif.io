@@ -1,5 +1,5 @@
 ---
-title: "Blockchain/Schlockchain"
+title: "Blockchain - Schlockchain"
 showAuthor: false
 showDate: false
 showReadingTime: false
