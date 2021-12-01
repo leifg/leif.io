@@ -18,7 +18,7 @@ There is this one [blog post](http://tom.preston-werner.com/2008/11/17/blogging-
 
 ### website is a github repository
 
-Instead of having an official web-site with screenshots, feature list and downloads, the main ressource for jekyll is [this github repository](http://github.com/mojombo/jekyll). Which is not a bad thing at all, because the infrastructure github provides is totally sufficient for hosting application websites (you have a built-in downloads-section, a wiki and even an issue tracker).
+Instead of having an official web-site with screenshots, feature list and downloads, the main resource for jekyll is [this github repository](http://github.com/mojombo/jekyll). Which is not a bad thing at all, because the infrastructure github provides is totally sufficient for hosting application websites (you have a built-in downloads-section, a wiki and even an issue tracker).
 
 ### no WYSIWYG-Editor
 
