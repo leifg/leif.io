@@ -6,7 +6,7 @@ tags: [elixir]
 categories: [programming]
 ---
 
-*This is a continuation of the [first part](__GHOST_URL__/deploying-elixir-projects-with-docker-and-distillery/) of the post where we created a release.*
+*This is a continuation of the [first part](/blog/2017/08/11/deploying-elixir-projects-with-docker-and-distillery/) of the post where we created a release.*
 
 Now that we have a release, let's pack it into a docker container.
 
@@ -109,4 +109,4 @@ docker push leifg/time_tracking:latest
 
 That's it, we have a fully functional version that we can run on any machine that has the docker engine installed.
 
-In the [next part](__GHOST_URL__/deploying-elixir-with-docker-part-3/) we will go ahead and deploy this container.
+In the [next part](/blog/2017/08/25/deploying-elixir-with-docker-part-3/) we will go ahead and deploy this container.

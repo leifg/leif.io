@@ -17,7 +17,7 @@ The community has been very excited in the last couple of days about the [Elixir
 
 Of course you can use one of the many [Elixir](https://github.com/mururu/exenv)[Version](https://github.com/asdf-vm/asdf)[Management](https://github.com/robisonsantos/evm)[Tools](https://github.com/taylor/kiex) to try out the formatter. But if you don't want to switch around between versions or if you (like me) stick to system Elixir, there is an easier way: Docker.
 
-I already wrote about how to try out the [latest Elixir in a Docker Container](__GHOST_URL__/continuous-elixir-builds-with-docker/). The same principle applies here.
+I already wrote about how to try out the [latest Elixir in a Docker Container](/blog/2017/08/11/deploying-elixir-projects-with-docker-and-distillery/). The same principle applies here.
 
 So here is how you format your code:
 

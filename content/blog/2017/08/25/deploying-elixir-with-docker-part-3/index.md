@@ -6,7 +6,7 @@ tags: [elixir]
 categories: [programming]
 ---
 
-*This is the third part of the Docker Elixir deployment adventure. Read [part 1](__GHOST_URL__/deploying-elixir-projects-with-docker-and-distillery/) and [part 2](__GHOST_URL__/deploying-elixir-with-docker-part-2/) first.*
+*This is the third part of the Docker Elixir deployment adventure. Read [part 1](/blog/2017/08/11/deploying-elixir-projects-with-docker-and-distillery/) and [part 2](/blog/2017/08/17/deploying-elixir-with-docker-part-2/) first.*
 
 In this part we are going to deploy our Docker container to [hyper.sh](https://console.hyper.sh/register/invite/j6lwdRzl5duM1ar7jM4Ktgzj8rae9xIj) (Affiliate Link). It's a relatively new platform that makes it very easy to deploy containers.
 
@@ -59,4 +59,4 @@ This is a very simple solution, as all the HTTP handling is done directly by Cow
 
 For now we will stick with a static IP addriss exposed via HTTP.
 
-Continue reading in the [last part](__GHOST_URL__/deploying-elixir-with-docker-part-4/) on how to bring this all together on [CircleCI](https://circleci.com).
+Continue reading in the [last part](/blog/2017/09/01/deploying-elixir-with-docker-part-4/) on how to bring this all together on [CircleCI](https://circleci.com).

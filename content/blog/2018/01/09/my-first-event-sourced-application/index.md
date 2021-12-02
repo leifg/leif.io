@@ -10,7 +10,7 @@ categories: [programming]
 
 For I while I thought about building an [event sourced](https://martinfowler.com/eaaDev/EventSourcing.html) application. The concept is so different from a classical CRUD approach that I was very intrigued.
 
-I tried once with a podcasting transcription app (the details of that can be read [here](__GHOST_URL__/how-playing-around-with-experimental-technologies-landed-me-a-6-month-freelance-gig/)) but I quickly became overwhelmed by all the design decisions I had to make.
+I tried once with a podcasting transcription app (the details of that can be read [here](/blog/2017/12/12/how-playing-around-with-experimental-technologies-landed-me-a-6-month-freelance-gig/)) but I quickly became overwhelmed by all the design decisions I had to make.
 
 After a while, I stumbled upon an event sourcing library called [commanded](https://github.com/commanded/commanded) which already provides a lot of the parts you need for an ES application.
 

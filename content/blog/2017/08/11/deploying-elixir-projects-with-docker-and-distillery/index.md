@@ -10,11 +10,11 @@ This is a multi part article about deployment of an Elixir application with Dock
 
 This part will be about building a distillery release for a Phoenix Application.
 
-[Part 2](__GHOST_URL__/deploying-elixir-with-docker-part-2/) will discuss packaging this release into a Docker container
+[Part 2](/blog/2017/08/17/deploying-elixir-with-docker-part-2/) will discuss packaging this release into a Docker container
 
-[Part 3](__GHOST_URL__/deploying-elixir-with-docker-part-3/) will show you how to deploy this container to a container runtime.
+[Part 3](/blog/2017/08/25/deploying-elixir-with-docker-part-3/) will show you how to deploy this container to a container runtime.
 
-[Part 4](__GHOST_URL__/deploying-elixir-with-docker-part-4/) will wrap it all up and show you how to integrate all if this into a Continuous Delivery Workflow
+[Part 4](/blog/2017/09/01/deploying-elixir-with-docker-part-4/) will wrap it all up and show you how to integrate all if this into a Continuous Delivery Workflow
 
 ## Situation
 
@@ -127,4 +127,4 @@ As I don't have any assets to compile, we are done here but additional informati
 
 That was the first part of deploying an Elixir application. The next part will talk about integrating the built release with Docker.
 
-*Continue with [part 2](__GHOST_URL__/deploying-elixir-with-docker-part-2/) of this post*
+*Continue with [part 2](/blog/2017/08/17/deploying-elixir-with-docker-part-2/) of this post*
