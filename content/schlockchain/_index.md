@@ -9,7 +9,7 @@ The blockchain universe is quite the universe. I have a lot of thoughts on this 
 
 > The only use case for public blockchains is: Assigning ownership of certain digital assets without a central authority
 
-“Certain digital assets” in reality pretty much means cryptocurrencies (I use the term digital assets because that use case also applies to cryptokitties and possibly other digital assets/collectibles I’m not aware of).
+"Certain digital assets" in reality pretty much means cryptocurrencies (I use the term digital assets because that use case also applies to cryptokitties and possibly other digital assets/collectibles I'm not aware of).
 
 For everything else blockchain has **no advantage** over classic data storage solutions.
 
