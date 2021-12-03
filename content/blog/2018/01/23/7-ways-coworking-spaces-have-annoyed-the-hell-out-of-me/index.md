@@ -6,6 +6,8 @@ tags: [coworking]
 categories: [culture]
 ---
 
+![Coworking Space](header.jpg)
+
 There are good reasons why you can't or don't want to work out of a classic office. Some have to do with working remotely, some are just due to the reason that your company is too small to rent out a complete office space.
 
 When this is the case you have several options; there are the people who like to work from home and there are the people who hang out in coffee shops all day. Somewhere in between, there are the coworking spaces.

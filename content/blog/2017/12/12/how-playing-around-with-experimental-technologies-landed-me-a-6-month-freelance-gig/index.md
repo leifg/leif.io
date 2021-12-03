@@ -5,6 +5,8 @@ date: 2017-12-12T21:52:28+00:00
 date_updated: 2018-08-22T10:52:53+00:00
 ---
 
+![compass](header.jpg)
+
 If you need to build an "Uber for X" product there is a simple path that gets the job done: Build an MVP with well-established technologies. Start with [Google Sheets](https://www.google.com/sheets/about/), [Typeform](https://www.typeform.com/) and a lot of Trello. Use Rails with a little bit of jQuery for a more custom solution. Capture as much feedback as possible and focus on iterating your MVP. This approach usually is referred to as the [The Lean Startup](http://theleanstartup.com/).
 
 But what happens when you choose the exact opposite approach?

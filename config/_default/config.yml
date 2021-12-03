@@ -8,10 +8,11 @@ author:
   name: Leif Gensert
   image: img/avatar.jpg
   links:
+    - github: 'https://github.com/leifg'
     - twitter: 'https://twitter.com/leifg'
-    - facebook: 'https://facebook.com/lgensert'
     - linkedin: 'https://linkedin.com/in/lgensert'
     - instagram: 'https://instagram/leifg'
+    - facebook: 'https://facebook.com/lgensert'
 permalinks:
   posts: '/blog/:year/:month/:day/:slug/'
 taxonomies:

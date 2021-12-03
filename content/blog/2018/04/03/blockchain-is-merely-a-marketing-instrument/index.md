@@ -6,6 +6,8 @@ tags: [blockchain]
 categories: [culture]
 ---
 
+![Chain](header.jpg)
+
 *TL;DR* Do you know any profitable B2B blockchain business? Yeah, me neither.
 
 This blog post is the attempt to reconcile my different observations that I have in the blockchain universe. It acts as a brain dump for me. Anyway, here is what I observe:

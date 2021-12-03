@@ -6,12 +6,14 @@ tags: [banking]
 categories: [culture]
 ---
 
+![Metro Bank](header.jpg)
+
 **Disclaimer:** I'm not a security expert. But to quote one of my favorite comedians [Steve Hoffstetter](https://www.scarymommy.com/mom-heckles-comedian-steve-hofstetter-viral-video/).
 
 > I’ve never flown a helicopter. But if I saw one in a tree, I could still be like, ‘Dude fucked up'.
 
 So here is what this helicopter in a tree looked for me:
-![](__GHOST_URL__/content/images/2018/09/Screenshot-2018-08-21-13.32.13.png)
+![Metro Bank Login Screen](login_screen.png)
 This is the login screen for [Metro Bank](https://Metro Bankonline.co.uk/), a UK based bank. This screen will only show up if you entered an existing customer number. I will go into detail what is wrong with it. But first a little bit about the "security concept" that Metro Bank has.
 
 On opening an account you will be assigned a 12 digit customer number, this will act as your username. In addition to that you will choose a password (nothing special here). But that is not enough. Furthermore you will need to choose a security number which is an 8 digit number. I should also mention that you will also have to select 3 preselected security question, which are irrelevant for the login process.
@@ -33,7 +35,7 @@ I'm waiting ...
 Exactly you have now idea. The only way you can actually know this is if your password is something like "12345678901234567890" or any other recognizable pattern. Not a great idea ...
 
 The other option is doing this:
-![](__GHOST_URL__/content/images/2018/09/IMG_0502.jpg)
+![Long Password Written Down](written_password.jpg)
 Writing down your password and numbering the individual characters. Also not a great idea. I know that there are compromises and if you go through this process often enough you get the hang of it. I now have a good routine with the [1Password enlarge password feature](https://support.1password.com/getting-started-mac/#enlarge-passwords)but flashing your password on your screen is also not a great option.
 
 ## It exposes certain security features of the Passwords
