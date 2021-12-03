@@ -2,3 +2,5 @@ colorScheme: ocean
 darkToggle: true
 homepage:
   layout: profile
+list:
+  showSummary: false
