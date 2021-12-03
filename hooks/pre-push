@@ -1,0 +1,19 @@
+#!/bin/sh
+
+# This hook prevents pushing drafts to the public repo
+# In order to actually open the PR, rename the branch to something else
+# git switch -c publish/name-of-article
+
+remote="$1"
+url="$2"
+current_branch=$(git rev-parse --abbrev-ref HEAD)
+
+echo "running hook"
+
+if [[ $remote == "origin" && $current_branch == "drafts/"* ]]
+then
+  echo "Don't push drafts to the public repo"
+	exit 1
+fi
+
+exit 0
