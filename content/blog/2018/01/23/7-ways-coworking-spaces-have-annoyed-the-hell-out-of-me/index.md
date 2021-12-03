@@ -1,6 +1,6 @@
 ---
 title: 7 Ways Coworking Spaces Have Annoyed the Hell out of Me
-date: 2018-01-24T03:52:29+00:00
+date: 2018-01-24T10:52:29+07:00
 draft: false
 tags: [coworking]
 categories: [culture]

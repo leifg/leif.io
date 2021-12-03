@@ -1,6 +1,6 @@
 ---
 title: Configure your Elm app with ENV variables
-date: 2017-10-01T21:53:54+00:00
+date: 2017-10-01T23:53:54+02:00
 draft: false
 tags: [elm]
 categories: [programming]

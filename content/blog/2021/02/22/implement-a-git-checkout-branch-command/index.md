@@ -1,6 +1,6 @@
 ---
 title: Implement a GIT Branch Checkout History
-date: 2021-02-23T00:11:46+00:00
+date: 2021-02-22T16:11:46-08:00
 draft: false
 tags: [git]
 categories: [programming]

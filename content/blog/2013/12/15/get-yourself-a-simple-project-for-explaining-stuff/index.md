@@ -1,6 +1,6 @@
 ---
 title: "Get Yourself a Simple Project for Explaining Stuff"
-date: 2013-12-15T23:56:35+00:00
+date: 2013-12-16T00:56:35+01:00
 draft: false
 tags: [ruby,advice,teaching]
 categories: [programming]

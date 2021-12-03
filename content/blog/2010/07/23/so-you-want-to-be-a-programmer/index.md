@@ -1,6 +1,6 @@
 ---
 title: "So You Want to Be a Programmer?"
-date: 2010-07-23T19:50:00+00:00
+date: 2010-07-23T23:35:12+02:00
 draft: false
 tags: [advice]
 categories: [programming]

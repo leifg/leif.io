@@ -1,6 +1,6 @@
 ---
 title: Export your Salesforce Objects to SQLite
-date: 2015-12-11T02:11:22+00:00
+date: 2015-12-10T18:11:22-08:00
 draft: false
 tags: [elixir]
 categories: [programming]

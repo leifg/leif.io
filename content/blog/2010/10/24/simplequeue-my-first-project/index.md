@@ -1,6 +1,6 @@
 ---
 title: "Simplequeue - My First Project"
-date: 2010-10-25T03:13:00+00:00
+date: 2010-10-24T16:18:36+02:00
 draft: false
 tags: [ruby]
 categories: [programming]

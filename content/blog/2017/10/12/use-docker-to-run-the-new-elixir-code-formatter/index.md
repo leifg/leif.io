@@ -1,6 +1,6 @@
 ---
 title: Use docker to run the new Elixir Code Formatter
-date: 2017-10-12T15:47:33+00:00
+date: 2017-10-12T17:47:33+02:00
 draft: false
 tags: [elixir]
 categories: [programming]

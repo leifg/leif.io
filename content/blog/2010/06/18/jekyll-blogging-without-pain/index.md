@@ -1,6 +1,6 @@
 ---
 title: "Jekyll: Blogging Without Pain"
-date: 2010-06-18T00:21:00+00:00
+date: 2010-06-18T02:21:00+02:00
 draft: false
 tags: [java,play]
 categories: [programming]

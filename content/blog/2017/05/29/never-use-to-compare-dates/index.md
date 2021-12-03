@@ -1,6 +1,6 @@
 ---
 title: Never compare dates in Elixir using "<" or ">"
-date: 2017-05-29T10:23:23+00:00
+date: 2017-05-29T12:23:23+02:00
 draft: false
 tags: [elixir]
 categories: [programming]
