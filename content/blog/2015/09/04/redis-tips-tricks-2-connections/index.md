@@ -1,6 +1,6 @@
 ---
 title: "Redis Tips & Tricks #2 - Connections"
-date: 2015-09-04T18:30:44+00:00
+date: 2015-09-04T11:30:44-07:00
 draft: false
 tags: [redis]
 categories: [programming]

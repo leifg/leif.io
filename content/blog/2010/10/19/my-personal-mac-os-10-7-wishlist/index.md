@@ -1,6 +1,6 @@
 ---
 title: "My Personal Mac Os 10 7 Wishlist"
-date: 2010-10-20T05:37:00+00:00
+date: 2010-10-19T21:03:54+02:00
 draft: false
 tags: [apple]
 categories: [culture]

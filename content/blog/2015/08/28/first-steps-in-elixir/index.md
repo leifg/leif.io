@@ -1,6 +1,6 @@
 ---
 title: First steps in Elixir
-date: 2015-08-29T00:53:15+00:00
+date: 2015-08-28T17:53:15-07:00
 draft: false
 tags: [elixir]
 categories: [programming]

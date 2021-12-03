@@ -1,6 +1,6 @@
 ---
 title: "Blockchain Is Merely a Marketing Instrument"
-date: 2018-04-03T16:02:00+00:00
+date: 2018-04-03T23:02:00+07:00
 draft: false
 tags: [blockchain]
 categories: [culture]

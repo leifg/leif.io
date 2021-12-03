@@ -1,6 +1,6 @@
 ---
 title: "Why ActiveRecord Enums Have Been Implemented in the Worst Possible Way"
-date: 2014-11-14T10:38:04+00:00
+date: 2014-11-14T11:38:04+01:00
 draft: false
 tags: [ruby,rails]
 categories: [programming]

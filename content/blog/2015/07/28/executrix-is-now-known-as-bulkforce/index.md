@@ -1,6 +1,6 @@
 ---
 title: Executrix is now known as Bulkforce
-date: 2015-07-28T11:36:59+00:00
+date: 2015-07-28T13:36:59+02:00
 draft: false
 tags: [ruby]
 categories: [programming]

@@ -1,6 +1,6 @@
 ---
 title: "3 Web Comic Series Every Geek Has to Know and Love"
-date: 2010-07-08T01:47:00+00:00
+date: 2010-07-07T00:24:27+02:00
 draft: false
 tags: [comics]
 categories: [culture]

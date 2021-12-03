@@ -1,6 +1,6 @@
 ---
 title: My First Event Sourced Application
-date: 2018-01-09T10:53:43+00:00
+date: 2018-01-09T17:53:43+07:00
 draft: false
 tags: [elixir]
 categories: [programming]

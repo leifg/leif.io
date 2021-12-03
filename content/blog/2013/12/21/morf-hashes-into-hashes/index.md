@@ -1,6 +1,6 @@
 ---
 title: "Morf Hashes Into Hashes"
-date: 2013-12-21T15:14:33+00:00
+date: 2013-12-21T16:14:33+01:00
 draft: false
 tags: [projects,ruby]
 categories: [programming]

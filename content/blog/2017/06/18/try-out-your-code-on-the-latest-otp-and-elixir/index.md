@@ -1,6 +1,6 @@
 ---
 title: Try out your code on the latest OTP and Elixir
-date: 2017-06-18T18:06:44+00:00
+date: 2017-06-18T20:06:44+02:00
 draft: false
 tags: [elixir]
 categories: [programming]

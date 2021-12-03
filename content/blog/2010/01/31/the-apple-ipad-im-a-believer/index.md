@@ -1,6 +1,6 @@
 ---
 title: "The Apple iPad: I'm a Believer"
-date: 2010-01-30T23:22:00+00:00
+date: 2010-01-31T00:22:00+01:00
 draft: false
 tags: [apple]
 categories: [culture]

@@ -1,6 +1,6 @@
 ---
 title: "Todo Lists 101"
-date: 2010-09-13T18:56:00+00:00
+date: 2010-09-14T22:22:03+02:00
 draft: false
 tags: [advice]
 categories: [productivity]

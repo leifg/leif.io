@@ -1,6 +1,6 @@
 ---
 title: "Redis Tips & Tricks #1 - Memory"
-date: 2014-12-19T17:15:36+00:00
+date: 2014-12-19T18:15:36+01:00
 draft: false
 tags: [redis]
 categories: [programming]

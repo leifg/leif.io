@@ -1,6 +1,6 @@
 ---
 title: Deploying Elixir with Docker Part 1
-date: 2017-08-11T17:37:45+00:00
+date: 2017-08-11T19:37:45+02:00
 draft: false
 tags: [elixir]
 categories: [programming]

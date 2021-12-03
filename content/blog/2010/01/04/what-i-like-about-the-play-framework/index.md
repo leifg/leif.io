@@ -1,6 +1,6 @@
 ---
 title: "What I Like About the Play Framework"
-date: 2010-01-04T22:28:00+00:00
+date: 2010-01-04T23:28:00+01:00
 tags: [java,scala,play!]
 draft: false
 ---

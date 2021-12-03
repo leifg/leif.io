@@ -1,6 +1,6 @@
 ---
 title: "Words to Erase From Your Vocabulary When Coaching at RailsGirls"
-date: 2012-11-29T04:15:00+00:00
+date: 2012-11-29T05:15:00+01:00
 draft: false
 tags: [ruby,advice,teaching]
 categories: [culture]
