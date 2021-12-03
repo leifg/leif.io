@@ -1,0 +1,13 @@
+#!/bin/sh
+
+HOOK_NAMES=$(find ./hooks -type f \! -name 'install' | xargs -n1 basename)
+# assuming the script is in a bin directory, one level into the repo
+HOOK_DIR=$(git rev-parse --show-toplevel)/.git/hooks
+
+for hook in $HOOK_NAMES; do
+    # create the symlink, overwriting the file if it exists
+    # probably the only way this would happen is if you're using an old version of git
+    # -- back when the sample hooks were not executable, instead of being named ____.sample
+    echo "Creating symlink for '$hook'"
+    ln -s -f ../../hooks/$hook $HOOK_DIR/$hook
+done
