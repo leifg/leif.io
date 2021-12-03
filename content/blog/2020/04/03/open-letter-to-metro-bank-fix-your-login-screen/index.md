@@ -10,7 +10,7 @@ categories: [culture]
 
 **Disclaimer:** I'm not a security expert. But to quote one of my favorite comedians [Steve Hoffstetter](https://www.scarymommy.com/mom-heckles-comedian-steve-hofstetter-viral-video/).
 
-> I’ve never flown a helicopter. But if I saw one in a tree, I could still be like, ‘Dude fucked up'.
+> I've never flown a helicopter. But if I saw one in a tree, I could still be like, 'Dude fucked up'.
 
 So here is what this helicopter in a tree looked for me:
 ![Metro Bank Login Screen](login_screen.png)
