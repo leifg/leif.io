@@ -15,7 +15,7 @@ For my professional credentials refer to my [LinkedIn Page](http://linkedin.com/
 
 Besides friends, family and my [amazing wife](https://www.linkedin.com/in/louisemeylan/) here are some other things I love:
 
-- Hedgehogs
+- Videos of [Baby Hedgehogs Yawning](https://www.youtube.com/watch?v=FKBYWI3vqDA)
 - Puns on my first name (It's pronounced like 'life')
 - EDM Remixes of [Philipp Poisel Songs](https://soundcloud.com/jeanmuzikaofficial/philipp-poisel-wie-soll-ein-mensch-das-ertragen-jeanmuzika-edit)
 - Punk rock albums released during the Bush era
