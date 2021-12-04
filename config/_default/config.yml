@@ -11,7 +11,7 @@ author:
     - github: 'https://github.com/leifg'
     - twitter: 'https://twitter.com/leifg'
     - linkedin: 'https://linkedin.com/in/lgensert'
-    - instagram: 'https://instagram/leifg'
+    - instagram: 'https://instagram.com/leifg'
     - facebook: 'https://facebook.com/lgensert'
 permalinks:
   posts: '/blog/:year/:month/:day/:slug/'

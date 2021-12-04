@@ -9,7 +9,7 @@ showReadingTime: false
 
 Hi there, my name is Leif I am a German living in California.
 
-I'm a developer by trade and by heart ❤️. I enjoy tinkering around with code and sometimes I [speak](https://speakerdeck.com/leifg) about it. I have particularly strong opinions on blockchain technologies. All my posts regarding this topic can be found under [Schlockchain](/schlockchain). All other articles can be found under [blog](/blog).
+I'm a developer by trade and by heart :heart:. I enjoy tinkering around with code and sometimes I [talk](https://speakerdeck.com/leifg) about it. I have particularly strong opinions on blockchain technologies. All my posts regarding this topic can be found under [Schlockchain](/schlockchain). All other articles can be found under [blog](/blog).
 
 For my professional credentials refer to my [LinkedIn Page](http://linkedin.com/in/lgensert/).
 
