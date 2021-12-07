@@ -1,18 +1,12 @@
 [build]
-publish = "public"
 command = "hugo --gc --minify"
+publish = "public"
 
 [context.production.environment]
 HUGO_VERSION = "0.89.4"
 HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "true"
-
-[context.split1]
-command = "hugo --gc --minify --enableGitInfo"
-
-[context.split1.environment]
-HUGO_VERSION = "0.89.4"
-HUGO_ENV = "production"
+TZ = "America/Los_Angeles"
 
 [context.deploy-preview]
 command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
@@ -28,8 +22,3 @@ HUGO_VERSION = "0.89.4"
 
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
-
-[[redirects]]
-from = "/npmjs/*"
-to = "/npmjs/"
-status = 200
