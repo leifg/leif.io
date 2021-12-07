@@ -1,3 +1,9 @@
+# domain level redirects
+http://blog.leif.io/ https://www.yoursite.com/blog/ 301!
+https://blog.leif.io/ https://www.yoursite.com/blog/ 301!
+http://blog.leif.io/* https://www.yoursite.com/:splat 301!
+https://blog.leif.io/* https://www.yoursite.com/:splat 301!
+# page redirects
 /what-i-like-about-the-play-framework/                                                    /blog/2010/01/04/what-i-like-about-the-play-framework/
 /the-apple-ipad-im-a-believer/                                                            /blog/2010/01/04/the-apple-ipad-im-a-believer/
 /jekyll-blogging-without-pain/                                                            /blog/2010/06/18/jekyll-blogging-without-pain/
