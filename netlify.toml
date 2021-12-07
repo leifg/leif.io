@@ -1,6 +1,6 @@
 [build]
 publish = "public"
-command = "hugo --minify --cleanDestinationDir"
+command = "hugo --gc --minify"
 
 [context.production.environment]
 HUGO_VERSION = "0.89.4"
@@ -8,20 +8,20 @@ HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "true"
 
 [context.split1]
-command = "hugo --minify --cleanDestinationDir --enableGitInfo"
+command = "hugo --gc --minify --enableGitInfo"
 
 [context.split1.environment]
 HUGO_VERSION = "0.89.4"
 HUGO_ENV = "production"
 
 [context.deploy-preview]
-command = "hugo --minify --cleanDestinationDir --buildFuture -b $DEPLOY_PRIME_URL"
+command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
 
 [context.deploy-preview.environment]
 HUGO_VERSION = "0.89.4"
 
 [context.branch-deploy]
-command = "hugo --minify --cleanDestinationDir -b $DEPLOY_PRIME_URL"
+command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
 
 [context.branch-deploy.environment]
 HUGO_VERSION = "0.89.4"
