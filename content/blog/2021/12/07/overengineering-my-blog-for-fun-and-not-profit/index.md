@@ -26,4 +26,4 @@ All of this took me about 3 weeks of on and off tinkering to set it up and conve
 
 From time to time I went a [little overboard](https://github.com/leifg/leif.io/pull/12) but I did enjoy the journey, after all tinkering with software is what I love :heart:.
 
-
+*Image by [picjumbo.com](https://www.picjumbo.com) via [Pixabay](https://pixabay.com/photos/student-notebook-female-study-type-865073/)*
