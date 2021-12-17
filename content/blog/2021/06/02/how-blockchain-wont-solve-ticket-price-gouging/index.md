@@ -1,5 +1,5 @@
 ---
-title: "How Blockchain Wont Solve Ticket Price Gouging"
+title: "How Blockchain Won't Solve Ticket Price Gouging"
 date: 2021-06-02T11:35:57-07:00
 draft: false
 tags: [blockchain]
