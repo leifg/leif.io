@@ -5,7 +5,7 @@ tags: [java,scala,play!]
 draft: false
 ---
 
-![play!](header.png)
+![play!](cover.png)
 
 Recently I stumbled upon the [play! framework](http://playframework.org). Being a fan of [Ruby on Rails](http://rubyonrails.org) my [first thought](http://twitter.com/leifg/status/5070708645) was: 'It's like Ruby on Rails, except that it's Java'. But I had to find out for myself. And I have to say: I really like it. In detail I would like to point out 4 things I like the most.
 

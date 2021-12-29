@@ -6,7 +6,7 @@ tags: [apple]
 categories: [culture]
 ---
 
-![my iPad](header.png)
+![my iPad](cover.png)
 
 **Disclaimer**: Yes I am an [Apple Fanboy](http://www.spike.com/blog/top-10-worst-types/74309?page=2), deal with it, save your flames.
 

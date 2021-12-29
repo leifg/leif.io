@@ -6,7 +6,7 @@ tags: [projects,ruby]
 categories: [programming]
 ---
 
-![calcsub.net logo](header.jpg)
+![calcsub.net logo](cover.jpg)
 
 Over the easter holidays I started working on a new project. Today it has finally reached a state where I'm confident to say: I can go public.
 

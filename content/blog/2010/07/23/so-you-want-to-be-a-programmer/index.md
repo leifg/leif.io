@@ -6,7 +6,7 @@ tags: [advice]
 categories: [programming]
 ---
 
-![books](header.jpg)
+![books](cover.jpg)
 
 If you're anything like me, you have always wanted to learn a programming language, do an awesome application and get filthy rich. To achieve this goal you find plenty of resources available online. But all articles on how to become a programmer really boil down to just 2 letters:
 

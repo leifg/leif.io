@@ -10,7 +10,7 @@ categories: [culture]
 And the Absurdity of the "Argument on Potential"
 {{</lead>}}
 
-![header](header.jpg)
+![header](cover.jpg)
 
 I listened to - and participated in quite a lot of blockchain related debates. By now I can pretty accurately predict how these debates end. The way this usually goes is that someone makes a completely unsubstantiated claim about what blockchain will or possibly can disrupt, sometimes even ["is already disrupting"](https://i.redd.it/f22p18ddu2371.jpg). When you follow up and ask "well, what has it disrupted?" the answer is either some cryptocurrency related project (decentralized exchanges, lending products) or another unsubstantiated claim or flawed analogy. Ultimately, the more you drill down you will end up at the argument of "we are just at the beginning, these things take time". For a good example of this, I recommend [Episode 2 of the Blockchain Debate Podcast](https://blockdebate.buzzsprout.com/767033/2506837-motion-tokenization-and-smart-contracts-are-useful-ideas-emin-gun-sirer-vs-edmund-schuster) where this progression is played out perfectly.
 

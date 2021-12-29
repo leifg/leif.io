@@ -6,7 +6,7 @@ tags: [java,play]
 categories: [programming]
 ---
 
-![Jekyll!](header.png)
+![Jekyll!](cover.png)
 
 A long time hast passed since my last blog post. But I did a complete redesign of my blog. Not only is the frontend completely different. The underlying backend has changed as well. I completely freed myself from [Wordpress](http://wordpress.com) and changed to an engine that fits my workflow much better: [jekyll](http://wiki.github.com/mojombo/jekyll/).
 
