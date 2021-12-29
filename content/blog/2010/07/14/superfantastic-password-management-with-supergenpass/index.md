@@ -6,7 +6,7 @@ tags: [passwords]
 categories: [programming]
 ---
 
-![password on a wall](header.jpg)
+![password on a wall](cover.jpg)
 
 Nowadays, there are a million websites out there which force you to create an account. During this step you are required to provide a username and a password. If this process gets repeated more often, the need of a proper password management increases. The currently most used password management is the simple "use one for all" method. I hope we alle agree that is the worst of all methods. The best available method however (generating long arbitrary passwords and memorizing them) is not that practicable. So you need to find a system between those two extremes. A few months back, I chose a password managing system with the help of [SuperGenPass](https://www.supergenpass.com) and stuck since then.
 

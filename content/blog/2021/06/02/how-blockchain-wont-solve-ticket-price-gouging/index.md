@@ -10,7 +10,7 @@ categories: [culture]
 And Possibly Make It Worse
 {{</lead>}}
 
-![Tickets](header.jpg)
+![Tickets](cover.jpg)
 
 When reading about blockchain I am often astonished about the number of problems blockchain technology is supposed to solve. I admit I am very quick to dismiss any of the claims that these startups are making. But from time to time I hear about a use case that takes me a little while to think through.
 

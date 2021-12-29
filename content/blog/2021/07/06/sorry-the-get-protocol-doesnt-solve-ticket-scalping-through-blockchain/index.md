@@ -10,7 +10,7 @@ categories: [culture]
 It's Solved Through Centralization and Proprietary APIs
 {{</lead>}}
 
-![header](header.png)
+![header](cover.png)
 
 *TL;DR: The reason why ticket scalping is a non issue through GET is because there is effectively one entity that controls the ticketing process*
 

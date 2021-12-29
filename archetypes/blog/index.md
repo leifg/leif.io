@@ -6,4 +6,4 @@ tags: []
 categories: []
 ---
 
-![header](header.png)
+![header](cover.png)

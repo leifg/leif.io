@@ -6,7 +6,7 @@ tags: [ruby]
 categories: [programming]
 ---
 
-![queue](header.jpg)
+![queue](cover.jpg)
 
 Today I released my first project on [github](http://github.com/leifg/simplequeue). It's called [simplequeue](http://github.com/leifg/simplequeue) and is a little tool to queue tasks. In this case everything is a task which can be expressed in a single line of text.
 

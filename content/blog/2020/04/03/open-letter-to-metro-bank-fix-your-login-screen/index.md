@@ -6,7 +6,7 @@ tags: [banking]
 categories: [culture]
 ---
 
-![Metro Bank](header.jpg)
+![Metro Bank](cover.jpg)
 
 **Disclaimer:** I'm not a security expert. But to quote one of my favorite comedians [Steve Hoffstetter](https://www.scarymommy.com/mom-heckles-comedian-steve-hofstetter-viral-video/).
 

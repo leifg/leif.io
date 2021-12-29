@@ -6,7 +6,7 @@ tags: [git]
 categories: [programming]
 ---
 
-![Branches](header.jpg)
+![Branches](cover.jpg)
 
 Take this alias
 

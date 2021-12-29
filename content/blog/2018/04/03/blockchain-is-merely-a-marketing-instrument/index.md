@@ -6,7 +6,7 @@ tags: [blockchain]
 categories: [culture]
 ---
 
-![Chain](header.jpg)
+![Chain](cover.jpg)
 
 *TL;DR* Do you know any profitable B2B blockchain business? Yeah, me neither.
 

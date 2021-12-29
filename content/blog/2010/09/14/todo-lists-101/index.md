@@ -6,7 +6,7 @@ tags: [advice]
 categories: [productivity]
 ---
 
-![ToDo Lists](header.jpg)
+![ToDo Lists](cover.jpg)
 
 ## write it down
 It's a pretty obvious one but with a lot of tasks in the past I just thought "ahh well I'll remember it". But most of the time I delayed it or missed to do it. This is especially the case when you get some great ideas while lying in bed. The chances are high you have forgotten all about them the next day. So get yourself some kind of easy accessible persistance layer to write down your tasks. Could be a simple piece of paper, could be your cellphone or could be some kind of web-application syncing with your smartphone (An overview of the best mobile todo list managers can be found [here](http://lifehacker.com/5630230/five-best-mobile-to+do-list-managers)).
