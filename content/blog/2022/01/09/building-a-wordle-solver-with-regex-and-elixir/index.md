@@ -33,7 +33,9 @@ Let's walk through it together using the riddle from Jan 5:
 
 Using `WATER` as the first guess will yield the following result:
 
-![Wordle Water gray gray yellow green green](wordle_guess_01.png)
+{{< figure src="wordle_guess_01.png" class="inline dark:hidden" >}}
+
+{{< figure src="wordle_guess_01_dark.png" class="hidden dark:inline" >}}
 
 We get all three feedbacks, there are letters that are are in the target word at the right position (green), ones that are in the target word but in the wrong position (yellow) and ones that are not in the target word at all (gray).
 
@@ -63,7 +65,9 @@ This chain of commands will filter all words first to all five letter words (not
 
 The result in this case was `OTHER`, repeating this pattern will yield `TUNER` then `TIMER` and finally the solution `TIGER`
 
-![Wordle Water gray gray yellow green green](wordle_guess_02.png)
+{{< figure src="wordle_guess_02.png" class="inline dark:hidden" >}}
+
+{{< figure src="wordle_guess_02_dark.png" class="hidden dark:inline" >}}
 
 The whole line looks like this:
 
