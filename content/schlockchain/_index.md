@@ -13,4 +13,4 @@ The blockchain universe is quite the universe. I have a lot of thoughts on this 
 
 For everything else blockchain has **no advantage** over classic data storage solutions.
 
-I gathered all articles that touch on this topic here on this page:
+I gathered all articles that touch on this topic here on this page. If you are interested in other sources, check my [reading list](/ultimate-list-of-web3-blockchain-resources).
