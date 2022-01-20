@@ -7,7 +7,7 @@ showReadingTime: false
 
 ![bookshelf](cover.jpg)
 
-*Updated: 16 January 2022*
+*Updated: 19 January 2022*
 
 This is a personally curated list of articles and podcast episodes criticizing Blockchain/Web3 besides my [schlockchain](/schlockchain) category.
 
@@ -20,6 +20,7 @@ This is a personally curated list of articles and podcast episodes criticizing B
 - [187 Things the Blockchain Is Supposed to Fix](https://www.wired.com/story/187-things-the-blockchain-is-supposed-to-fix/): WIRED article from 2018 listing various use cases for Blockchain. Especially insightful to go through the links for now non-existing companies.
 - [Web3 is going just great](https://web3isgoinggreat.com): Amazing overview collected by [Molly White](https://twitter.com/molly0xFFF) on all the mishaps in the Web3 space.
 - [Why Web3’s Shared Data Across Applications Doesn’t Matter](https://medium.com/bloated-mvp/why-web3s-shared-data-across-applications-doesn-t-matter-e0281d3f70d2): Awesome run down by [Liron Shapiro](https://twitter.com/liron) about one specific argument of Web3 and how it would fail in reality.
+- [How To Kill Bitcoin](https://joekelly100.medium.com/how-to-kill-bitcoin-part-1-is-bitcoin-unstoppable-code-7a1b366f65ee): 3 part article explaining on how a government could effectively stop the Bitcoin network on a technical level.
 
 ## Podcast Episodes
 
@@ -29,5 +30,9 @@ This is a personally curated list of articles and podcast episodes criticizing B
 ## General Resources
 
 - [Attack of the 50ft Blockchain](https://davidgerard.co.uk/blockchain/book/): An absolute must read for everyone wanting to step into the Blockchain universe. This book by [David Gerard](https://twitter.com/davidgerard) was released in 2017 so it doesn't touch on Web3 or NFTs but the arguments it makes still hold true.
+
+## More Lists
+
+- [awesome-crypto-critique](https://github.com/rufuspollock/awesome-crypto-critique): Giant list of articles criticizing Crypto, Blockchain and Web3
 
 *Attribution: [Books](https://pixabay.com/photos/books-bookstore-book-reading-1204029/) by [Lubos Houska](https://pixabay.com/users/luboshouska-198496/)*
