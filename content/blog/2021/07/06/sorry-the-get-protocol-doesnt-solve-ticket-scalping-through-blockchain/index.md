@@ -147,13 +147,13 @@ As of early July 2021, the GUTS website puts the following on the very top of th
 
 > GUTS uses blockchain technology to issue honest tickets that put an end to disgraceful secondary market prices and ticket fraud.
 
-![GUTS Website](guts_website.jpg)
+![GUTS Website](guts_website.png)
 
 The GET protocol page is a little bit more nuanced with the statement:
 
 > The GET Protocol offers a blockchain-based smart ticketing solution that can be used by everybody who needs to issue tickets(NFTs) in an honest and transparent way.
 
-![GET Website](get_website.jpg)
+![GET Website](get_website.png)
 
 So I think it's fair to say that honest ticketing is their main selling point. And I don't see any other way to read this as "We achieve honest ticketing **because of blockchain**".
 
