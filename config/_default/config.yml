@@ -2,6 +2,7 @@ baseURL: 'https://leif.io/'
 languageCode: en-us
 title: Leif Thoughts
 defaultContentLanguage: en
+enableRobotsTXT: true
 copyright: Leif Gensert
 pluralizelisttitles: false
 author:
