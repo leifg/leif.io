@@ -61,3 +61,5 @@ Bonus points if you have event or techniques to encourage communication between 
 So I already hear your objections: "Why not bring your own water?", "Is doing your dishes really that bad?", "just go outside to take a call". And some of your statements might be true. I am perfectly aware that I can do something about any of the annoyances. But solving little problems will take away energy from what I actually want to do in a coworking space: **work** and occasionally **socialize**.
 
 So if you run a coworking space: **Make it easy** and you'll win me as a happy client.
+
+*Attribution: [Meeting Brainstorming Business](https://pixabay.com/photos/meeting-brainstorming-business-594091/) by [StartupStockPhotos](https://pixabay.com/users/startupstockphotos-690514/)*

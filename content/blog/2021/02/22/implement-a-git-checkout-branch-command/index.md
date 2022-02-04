@@ -34,4 +34,4 @@ This will show the last 9 branches you have checked out with the abbreviation to
 
 You can of course use the branch name to check it out, or use the abbreviation in front of it `git checkout @{-6}` will check out `implement-join-code`.
 
-Image by [DarkmoonArt_de](https://pixabay.com/users/darkmoonart_de-1664300/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3464777) from [Pixabay](https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3464777)
+*Attribution: [Trees Avenue Road](https://pixabay.com/photos/trees-avenue-road-the-dark-hedges-3464777/) by [DarkmoonArt_de](https://pixabay.com/users/darkmoonart_de-1664300)*
