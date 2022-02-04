@@ -1,5 +1,6 @@
 colorScheme: ocean
-darkToggle: true
+autoSwitchAppearance: true
+showAppearanceSwitcher: true
 homepage:
   layout: profile
 list:
@@ -7,3 +8,4 @@ list:
 fathomAnalytics:
   site: OORKIHUO
   domain: day-life-legendary.leif.io
+enableSearch: true

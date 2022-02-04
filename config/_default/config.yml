@@ -1,22 +1,14 @@
 baseURL: 'https://leif.io/'
 languageCode: en-us
-title: Leif Thoughts
 defaultContentLanguage: en
 enableRobotsTXT: false
-copyright: Leif Gensert
 pluralizelisttitles: false
-author:
-  name: Leif Gensert
-  image: img/avatar.jpg
-  links:
-    - github: 'https://github.com/leifg'
-    - stackoverflow: 'https://stackoverflow.com/users/1087469/leifg'
-    - twitter: 'https://twitter.com/leifg'
-    - linkedin: 'https://linkedin.com/in/lgensert'
-    - instagram: 'https://instagram.com/leifg'
-    - facebook: 'https://facebook.com/lgensert'
 permalinks:
   posts: '/blog/:year/:month/:day/:slug/'
 taxonomies:
   blog: blog
-
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
