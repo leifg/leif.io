@@ -36,7 +36,7 @@ This is where the Bitcoin network is fundamentally different from other technolo
 
 ## Conclusion
 
-So in short: every increase in energy consumption needs to be justified. And that is true even if the energy source is renewable. And yes I know that gold mining, the banking system and even Christmas lights use a lot of energy as well but at the very least there is an incentive for everyone to lower the energy consumption of these systems. So the energy consumption argument for Bitcoin should never be about the exact percentage of green energy. It should rather be: "Is it worth it?". I answer this question with a clear: Hell no.
+So in short: every increase in energy consumption needs to be justified. And that is true even if the energy source is renewable. And yes I know that gold mining, the banking system and even Christmas lights use a lot of energy as well but at the very least there is an incentive for everyone to lower the energy consumption of these systems. So the energy consumption argument for Bitcoin should never be about the exact percentage of green energy. It should rather be: "Do the use cases of the Bitcoin network justify ANY increase of energy consumption?". I answer this question with a clear: Hell no.
 
 *Attribution: [Renewable Energy Environment](https://pixabay.com/photos/renewable-energy-environment-wind-1989416/) by [seagul](https://pixabay.com/users/seagul-191369)*
 
