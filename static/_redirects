@@ -5,7 +5,8 @@ https://blog.leif.io/ https://www.leif.io/blog/ 301!
 https://blog.leif.io/* https://www.leif.io/:splat 301!
 
 # Short Links
-/web3  /ultimate-list-of-web3-blockchain-resources/
+/web3           /ultimate-list-of-web3-blockchain-resources/
+/crypto_energy  /blog/2022/02/02/the-bitcoin-energy-argument-that-nobody-makes/
 
 # Page Redirects of old URLs
 /what-i-like-about-the-play-framework/                                                    /blog/2010/01/04/what-i-like-about-the-play-framework/
