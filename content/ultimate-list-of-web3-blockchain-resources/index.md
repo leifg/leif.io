@@ -1,8 +1,6 @@
 ---
 title: "Ultimate List of Web3/Blockchain Resources"
-showAuthor: false
-showDate: false
-showReadingTime: false
+layout: "simple"
 ---
 
 ![bookshelf](cover.jpg)

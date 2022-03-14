@@ -1,8 +1,6 @@
 ---
 title: "About"
-showAuthor: false
-showDate: false
-showReadingTime: false
+layout: "simple"
 ---
 
 ![Leif Gensert](james_coffee_landscape.jpg)
