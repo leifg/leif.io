@@ -11,7 +11,7 @@ This is a personally curated list of articles and podcast episodes criticizing B
 
 ## Articles
 
-- [Web3 is Bullshit](https://www.stephendiehl.com/blog/web3-bullshit.html): If you only read one article, make it this one. [Stephen Diel](https://twitter.com/smdiehl) does an excellent job of breaking down all the different angles on how Web3 is at best misleading.
+- [Web3 is Bullshit](https://www.stephendiehl.com/blog/web3-bullshit.html): If you only read one article, make it this one. [Stephen Diehl](https://twitter.com/smdiehl) does an excellent job of breaking down all the different angles on how Web3 is at best misleading.
 - [It's not still the early days](https://blog.mollywhite.net/its-not-still-the-early-days/): A great take on what I named [the argument on potential](https://www.leif.io/blog/2021/12/29/blockchains-are-too-old-to-be-the-beginning-of-anything/) by [Molly White](https://twitter.com/molly0xFFF). Much more concise and with better examples than I ever could write it.
 - [My first impressions of web3](https://moxie.org/2022/01/07/web3-first-impressions.html): [Moxie Marlinspike](https://twitter.com/moxie), the founder of Signal, gives an excellent run down on what actually happens when you try to use web3. This article focuses more an the usefulness on NFTs with a focus on NFTs.
 - [Cloud Crypto Land](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3476678): Legal study by London School of Economics professor [Edmund Schuster](https://twitter.com/edmund_schuster) on the impossibility of a meaningful blockchain-based economic system.
@@ -22,7 +22,7 @@ This is a personally curated list of articles and podcast episodes criticizing B
 
 ## Podcast Episodes
 
-- [Tech Won't Save Us: Web3 is a Scam, Not a Revolution](https://podcasts.apple.com/fi/podcast/tech-wont-save-us/id1507621076?i=1000544403873): A great podcast episode with [Paris Marx](https://twitter.com/parismarx) and [Stephen Diel](https://twitter.com/smdiehl). 1 hour of everything that's wrong with the blockchain and Web3.
+- [Tech Won't Save Us: Web3 is a Scam, Not a Revolution](https://podcasts.apple.com/fi/podcast/tech-wont-save-us/id1507621076?i=1000544403873): A great podcast episode with [Paris Marx](https://twitter.com/parismarx) and [Stephen Diehl](https://twitter.com/smdiehl). 1 hour of everything that's wrong with the blockchain and Web3.
 - [TRASHFUTURE: The Road to Apedom](https://trashfuturepodcast.podbean.com/e/the-road-to-apedom-feat-this-machine-kills/): 80 minutes of lighthearted conversation trashing all kinds of aspects of Web3.
 
 ## General Resources
