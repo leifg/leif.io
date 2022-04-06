@@ -3,7 +3,7 @@ title: "If You Have Consumed 12 out of These 25 Crypto Critics Resources, Then W
 layout: "simple"
 ---
 
-I suppose you came here because of my TikTok video! Congratulations. Finding resources in TikTok videos sucks, so here is a list of all the material that was mentioned in the video.
+I suppose you came here because of [my TikTok video](https://www.tiktok.com/@leifhedgehog/video/7083277633278070018)! Congratulations. Finding resources in TikTok videos sucks, so here is a list of all the material that was mentioned in the video.
 
 # Videos
 
