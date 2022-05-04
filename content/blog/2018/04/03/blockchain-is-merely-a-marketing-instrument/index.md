@@ -6,7 +6,7 @@ tags: [blockchain]
 categories: [culture]
 ---
 
-![Chain](cover.jpg)
+![Blockchain Marketing](cover.jpg)
 
 *TL;DR* Do you know any profitable B2B blockchain business? Yeah, me neither.
 
@@ -35,3 +35,5 @@ Which brings me back to my headline. Everyone that invests in blockchain seems t
 My point is: other than riding on FOMO of investors, blockchain has very little to offer from a business perspective. I mean when did the hype start? Ethereum was founded in mid-2015 and I heard about the potential long before that. So far I have seen nothing substantial. For an industry that claims to "go fast and break things" 3 years is a long time.
 
 Don't agree? Prove me wrong. Tweet me at [@leifg](https://twitter.com/leifg) and tell me about the ROI of your startup and how blockchain contributed to it.
+
+*Attribution: [Blockchain Technology Digital](https://pixabay.com/illustrations/blockchain-technology-digital-4129138/) by [TheDigitalArtist](https://pixabay.com/users/thedigitalartist-202249/)*
