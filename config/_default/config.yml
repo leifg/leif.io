@@ -7,7 +7,7 @@ permalinks:
   posts: '/blog/:year/:month/:day/:slug/'
 taxonomies:
   blog: blog
-timeout: 60s
+timeout: 300s
 outputs:
   home:
     - HTML
