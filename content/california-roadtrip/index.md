@@ -85,9 +85,9 @@ A collection of food trucks with absolute delicious food. Since 2015 they expand
 
 Listen to regular people reading stories from their high school. Not only is it hilarious it presented in an absolute amazing way. Between the sets an improv rap group will retell the stories.
 
-### [https://sf.nerdnite.com @ The Rickshaw Stop](https://sf.nerdnite.com) (Every 3rd Wednesday of the month)
+### [Nerd Nite @ The Rickshaw Stop](https://sf.nerdnite.com) (Every 3rd Wednesday of the month)
 
-The nerd nite is a global event that started in Boston. Experts from all fields hold talks on their areas of expertise. The San Francisco chapter is held at the Rickshaw Stop in Hayes Valley.
+The Nerd Nite is a global event that started in Boston. Experts from all fields hold talks on their areas of expertise. The San Francisco chapter is held at the Rickshaw Stop in Hayes Valley.
 ### [The Exploratorium After Dark (Every Thursday)](https://www.exploratorium.edu/visit/calendar/after-dark)
 
 The science museum focused on mathematics and physics hosts a happy hour every Thursday night. Usually they also have science or magic shows and they are serving cocktails. An amazing way to experience the museum.
