@@ -135,7 +135,7 @@ None of these things have anything to do with blockchain. So I think it is fair 
 
 ## Responding to Possible Comments
 
-I really want this to be the last article about blockchain/NFT ticketing (at least until Mark Cuban announces his [NFT ticketing service](https://www.cnbc.com/2021/03/26/mark-cuban-dallas-mavericks-may-use-nfts-for-ticketing.html)). But I am anticipating a couple of counter points, so I wanted to pre emotively respond to those.
+I really want this to be the last article about blockchain/NFT ticketing (at least until Mark Cuban announces his [NFT ticketing service](https://www.cnbc.com/2021/03/26/mark-cuban-dallas-mavericks-may-use-nfts-for-ticketing.html)). But I am anticipating a couple of counter points, so I wanted to preemptively respond to those.
 
 ### It's Not about Honest Ticketing! It's about Transparency, Pre Financing of Concerts Etc...
 
