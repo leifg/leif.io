@@ -3,7 +3,7 @@ title: "Blockchain - Schlockchain"
 layout: "simple"
 ---
 
-The blockchain universe is quite the universe. I have a lot of thoughts on this technology an I am taking a rather extreme position:
+The blockchain universe is quite the universe. I have a lot of thoughts on this technology and I am taking a rather extreme position:
 
 > The only use case for public blockchains is: Assigning ownership of certain digital assets without a central authority
 
