@@ -5,8 +5,6 @@ date: 2022-04-05T20:39:47-07:00
 draft: false
 ---
 
-![bank skyline](cover.jpg)
-
 This is one of the articles that has been sitting in my draft folder for a long time. Every time I had an interaction with a bank I added to it. I feel confident at this point to publish because my experiences with getting a bank account or a credit card here in the US have been mostly awful.
 
 Let me back up a bit. I moved to the US in September 2019. I am not a US citizen, I already had a social security based on a former Business visa. At the time of writing this article I have a green card. I do understand that the situation of not having a credit score and not being a citizen is not a great start, but most banks accommodate for that so I didn't expect major issues.

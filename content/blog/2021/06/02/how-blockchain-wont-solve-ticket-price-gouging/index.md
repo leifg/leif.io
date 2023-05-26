@@ -10,8 +10,6 @@ categories: [culture]
 And Possibly Make It Worse
 {{</lead>}}
 
-![Tickets](cover.jpg)
-
 When reading about blockchain I am often astonished about the number of problems blockchain technology is supposed to solve. I admit I am very quick to dismiss any of the claims that these startups are making. But from time to time I hear about a use case that takes me a little while to think through.
 
 This happened to me recently when I stumbled upon an [interview podcast episode](https://alphalist.podigee.io/24-peter-grosskopf) with Peter Grosskopf where he gave an intro to blockchain and brought up a couple examples. Disclaimer here: I owe a great deal of my career to Peter as he was the first one to hire me as a tech freelancer back in 2016. I have nothing but good things to say about him, I just happen to disagree with him about his assessment about the blockchain.

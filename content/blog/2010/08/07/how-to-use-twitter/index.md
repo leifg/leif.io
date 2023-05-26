@@ -6,8 +6,6 @@ tags: [twitter]
 categories: [culture]
 ---
 
-![Twitter Wall](cover.jpg)
-
 The most controversial "community" has finally taken off into mainstream. So a lot of people are asking themselves: "how can I get rich using this service". That is a valid question. A lot of so called "consultants" or "experts" are trying to help with this question and make up rules on "how to use twitter".
 
 I think I'll join this conversation:

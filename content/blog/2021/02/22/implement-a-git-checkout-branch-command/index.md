@@ -6,8 +6,6 @@ tags: [git]
 categories: [programming]
 ---
 
-![Branches](cover.jpg)
-
 Take this alias
 
 ```shell

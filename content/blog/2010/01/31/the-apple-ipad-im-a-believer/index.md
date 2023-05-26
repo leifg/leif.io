@@ -6,8 +6,6 @@ tags: [apple]
 categories: [culture]
 ---
 
-![my iPad](cover.png)
-
 **Disclaimer**: Yes I am an [Apple Fanboy](http://www.spike.com/blog/top-10-worst-types/74309?page=2), deal with it, save your flames.
 
 Just before I write anything: [Here](http://forums.macrumors.com/showthread.php?t=500) is a thread about the iPod announcement back in 2001. Just check if you find your comments somewhere ;-).

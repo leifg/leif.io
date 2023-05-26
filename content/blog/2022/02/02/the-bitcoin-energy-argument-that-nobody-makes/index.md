@@ -6,8 +6,6 @@ tags: [blockchain,bitcoin,energy]
 categories: [culture]
 ---
 
-![wind and solar energy](cover.jpg)
-
 This is one of these rare circumstances this blog will touch on cryptocurrencies and not blockchains in general. More concretely this post is about one of the most debated topics within the cryptocurrency sphere. Energy consumption of the Bitcoin blockchain. All the arguments made from here equally apply to other proof of work cryptocurrencies.
 
 I'm writing this article because I falsely assumed that pro-crypto people largely acknowledged that the energy consumption is bad and are either fine with it (necessary evil) or genuinely try to switch to cryptocurrencies on a proof of stake blockchain. I was proven wrong by multiple conversations I read on Twitter and heard various podcasts. The way these discussions go is so insanely frustrating for one particular reason. A huge part of these debates is wasted on details about how big the percentage of renewable energies in Bitcoin mining is. This goes back and forth where one side mentions studies that are usually dismissed by the other side.

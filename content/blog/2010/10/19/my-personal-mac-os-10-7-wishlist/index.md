@@ -6,8 +6,6 @@ tags: [apple]
 categories: [culture]
 ---
 
-![Mac OS](cover.jpg)
-
 Tomorrow (October 20th 2010), Apple is going to introduce Mac OS version 10.7. I'm curious of what Steve is going to show us. But just in case someone from apple is reading this. Here is my wishlist for the upcoming OS.
 
 ## facetime in system

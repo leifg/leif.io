@@ -6,8 +6,6 @@ tags: [blog]
 categories: [programming]
 ---
 
-![New Blog](cover.jpg)
-
 This publication has been around a while. According to my [first article](/blog/2010/01/04/what-i-like-about-the-play-framework/) it goes back all the way to January 2010 and was hosted on Wordpress. In the meantime I switched from there to [Jekyll](/blog/2010/06/18/jekyll-blogging-without-pain/) until I switched to [ghost](/blog/2013/12/13/im-blogging-again/) in late 2013.
 
 This is where the blog spent most of its time, and even thought I had [some](https://news.ycombinator.com/item?id=15909870) [stories](https://news.ycombinator.com/item?id=27210604) reach the front page of Hacker News it was mostly quiet around here and infrequently updated (I did not write a single post in all of 2016).
