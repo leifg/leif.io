@@ -8,8 +8,6 @@ categories: [culture]
 
 Wow, this blew up (as much as an article about blockchain can blow up). My [last article](/blog/2021/05/16/real-world-ownership-is-not-a-use-case-for-blockchain/) made it to the front-page of [Hacker News](http://news.ycombinator.com/). I got over 10k views and a ton of feedback.
 
-![graph](cover.png)
-
 Most of the feedback was positive, agreeing with me or confirming my argument from a different angle.
 
 However there were a couple of arguments made against what I'm saying. I try my best to address them.

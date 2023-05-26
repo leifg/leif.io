@@ -10,8 +10,6 @@ categories: [culture]
 It's Solved Through Centralization and Proprietary APIs
 {{</lead>}}
 
-![header](cover.png)
-
 *TL;DR: The reason why ticket scalping is a non issue through GET is because there is effectively one entity that controls the ticketing process*
 
 I got a couple of responses on my last article about price gouging/ticket scalping. One solution was mentioned that supposedly does solve this issue through blockchain.

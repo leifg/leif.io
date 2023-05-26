@@ -6,8 +6,6 @@ tags: [java,play]
 categories: [programming]
 ---
 
-![Jekyll!](cover.png)
-
 A long time hast passed since my last blog post. But I did a complete redesign of my blog. Not only is the frontend completely different. The underlying backend has changed as well. I completely freed myself from [Wordpress](http://wordpress.com) and changed to an engine that fits my workflow much better: [jekyll](http://wiki.github.com/mojombo/jekyll/).
 
 To call jekyll a blogging-engine is (IMHO) not quite right. It's just a generator for static contents. The general idea behind it is that you write all your articles in a markup language (e.g. [HTML](http://www.w3.org/MarkUp/), [Markdown](http://daringfireball.net/projects/markdown/) or [Textile](http://textile.thresholdstate.com/)), define the layout via the [Liquid Templating engine](http://www.liquidmarkup.org/), run the jekyll generator and end up with a complete directory structure containing HTML/CSS and JavaScript files which can be used as the actual site.

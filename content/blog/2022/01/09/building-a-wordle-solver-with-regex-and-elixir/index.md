@@ -6,8 +6,6 @@ tags: [elixir,wordle]
 categories: [programming]
 ---
 
-![Wordle](cover.jpg)
-
 This is one of these articles that is predestined to start with "unless you've been living under a rock, you have heard of ...". Unfortunately I don't know how popular the thing I'm gonna write about is outside my bubble but here we go.
 
 Among my group of friends and colleagues the online game [wordle](https://www.powerlanguage.co.uk/wordle/) has been hugely popular. It's a mix of [Scrabble](https://en.wikipedia.org/wiki/Scrabble) and [Mastermind](https://en.wikipedia.org/wiki/Mastermind_(board_game)) where you'll have to guess a five letter word. Hints about individual characters are conveyed to you via yellow, green and gray indicators. Green means the target word has this character at this location, yellow means the target word has this character but in a different location and gray means the character is not in the target word at all.

@@ -6,8 +6,6 @@ tags: [javascript,wordle]
 categories: [programming]
 ---
 
-![header](cover.png)
-
 **UPDATE 13 January 2022:** A previous version of the article did not include Google Chrome's Override instructions.
 
 One element of writing my last [wordle article](/blog/2022/01/09/building-a-wordle-solver-with-regex-and-elixir) was creating screenshots to illustrate the solving algorithm. But I didn't want to use the word of that day (which was "gorge"), I wanted to use a specific word ("tiger" fom Jan 5).

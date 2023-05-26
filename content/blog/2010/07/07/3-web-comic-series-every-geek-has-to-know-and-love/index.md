@@ -6,8 +6,6 @@ tags: [comics]
 categories: [culture]
 ---
 
-![play!](cover.jpg)
-
 The internet is wonderful for so many things. Beside sharing your favorite cat pictures and telling the world your current meal. But you can also gather a large amount of information. I introduce now: my favorite 'information pieces' in the category 'web comics'.
 
 ## [The Oatmeal](http://theoatmeal.com/)

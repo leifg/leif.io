@@ -6,8 +6,6 @@ tags: [elixir]
 categories: [programming]
 ---
 
-![arrows](cover.jpg)
-
 *TL;DR:* I built an event sourced application that shows the latest version of common programming languages. Find it [here](https://releaseping.com).
 
 For I while I thought about building an [event sourced](https://martinfowler.com/eaaDev/EventSourcing.html) application. The concept is so different from a classical CRUD approach that I was very intrigued.
