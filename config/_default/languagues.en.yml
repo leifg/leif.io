@@ -1,9 +1,11 @@
 languageCode: en
 languageName: English
-displayName: EN
-htmlCode: en
 weight: 1
-rtl: false
+
+params:
+  displayName: EN
+  htmlCode: en
+  rtl: false
 
 title: Leif Thoughts
 copyright: Leif Gensert
