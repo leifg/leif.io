@@ -332,6 +332,16 @@ A great bar with a nice outside patio. Typically there is live music on Friday n
 
 When you live in San Diego the restaurant group Consortium is a name you will come across. Their latest venue is already well known all across the area. Disguised as a record shop, part time lovers turns into a cocktail bar/club in the late afternoon. Even though it's intended to be a secret spot, you will have trouble missing it as the line outside the door speaks for itself.
 
+## Tacos
+
+Tacos in San Diego deserve their own category as there is just too much to choose from. Apart from the numerous taco food trucks (catch Corazon de Tortas on Friday at Fall Brewing) there are a few establishments that made a name for themselves in the area.
+
+### Tacosl El Gordo
+
+### City Tacos
+
+### The Taco Stand
+
 ## Events
 
 ### Don't Tell Comedy
