@@ -297,9 +297,61 @@ In 2017 Joshua Tree was designated as an International Dark Sky Park, so if you'
 
 Last but not least, my home of San Diego. Located right at the Mexican border, San Diego area offers a great
 mix of beach, city life, mountains and desert.
+
+## Weather
+
+San Diego gives you the optimal mix of nice weather. Even though May and June might be overcast for the majority of time, the temperatures are always nice. The summer doesn't get too hot but sun screen is recommended.
+
+## Getting Around
+
+San Diego's public transport system lacks behind in comparison to the Bay Area and even Los Angeles. For most places you will need to get on a bus as there are only 3 trolley lines available.
+
+Either way it's a good idea to download the PRONTO app to use public transport. You can load up money and then use the generated QR code to validate your fares.
+
 ## Where to Stay
 
 Obviously [Casa Mika](https://www.airbnb.com/h/casa-mika).
+
+## Restaurants & Bars
+
+There is a great selection of food available in San Diego. Especially the Mexican and South East Asian cuisine are wins. Additionally San Diego is on every "The X best craft beer in cities in North America" you will find online.
+
+### Din Tai Fung
+
+Great dumpling place that we frequent when there is something to celebrate. Absolutely delicious dumplings and their wontons are to die for.
+
+### Fall Brewing
+
+Just a short walk from our house, an old car mechanic turned into a craft brewery. Nice outside seating and perfect place for a Friday happy hour. Be there before 5pm or you might have trouble finding a table. The food truck on their parking lot will make sure you don't go hungry.
+
+### Park & Rec
+
+A great bar with a nice outside patio. Typically there is live music on Friday night.
+
+### Part Time Lover
+
+When you live in San Diego the restaurant group Consortium is a name you will come across. Their latest venue is already well known all across the area. Disguised as a record shop, part time lovers turns into a cocktail bar/club in the late afternoon. Even though it's intended to be a secret spot, you will have trouble missing it as the line outside the door speaks for itself.
+
+## Events
+
+### Don't Tell Comedy
+
+The comedy scene in San Diego is somehow tricky and absolutely not comparable to New York, Los Angeles or even San Francisco.
+
+The one series of comedy show that was always a hit (and I went at least 5 times) is [Don't Tell Comedy San Diego](https://www.donttellcomedy.com/cities/san-diego/). This is a somewhat secret event where you only know the general area of the show but neither the exact address nor the comedians performing.
+
+Shows happen almost every day so you are guaranteed to have an event during your stay.
+
+
+### Farmer's Markets
+
+Every day of the week you will find a farmers market in San Diego that does not only sell fresh produce it also has tons of food carts and art pieces by local artists.
+
+You see the full list of farmers markets and their day of the week on the [San Diego Home Page](https://www.sandiego.org/explore/things-to-do/shopping/san-diego-farmers-markets.aspx) but here are some of my favorites:
+
+- North Park: Every Thursday from 3:00 PM to 6:00 PM
+- Little Italy: Every Saturday from 8:00 AM to 2:00 PM
+- Hillcrest: Every Sunday from 8:00 AM to 2:00 PM
 
 ---
 
