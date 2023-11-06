@@ -6,9 +6,12 @@ params:
   displayName: EN
   htmlCode: en
   rtl: false
+  author:
+    name: Leif Gensert
 
 title: Leif Thoughts
 copyright: Leif Gensert
+
 author:
   name: Leif Gensert
   image: img/avatar.jpg
