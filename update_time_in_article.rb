@@ -1,5 +1,6 @@
+require "time"
 require "fileutils"
-require "active_support/time"
+require "active_support/all"
 require "front_matter_parser"
 
 
@@ -84,7 +85,7 @@ class ContentRewriter
   end
 
   def self.parse_file(filename, timezone)
-    unsafe_loader = ->(string) { YAML.load(string) }
+    unsafe_loader = ->(string) { YAML.load(string, permitted_classes: [Time]) }
 
     new(FrontMatterParser::Parser.parse_file(filename, loader: unsafe_loader), timezone)
   end
@@ -97,7 +98,7 @@ raise "Invalid Timezone '#{timezone}'" unless TZInfo::Timezone.all_identifiers.i
 raise "File #{filename} does not exist" unless File.exist?(filename)
 
 rewriter = ContentRewriter.parse_file(filename, timezone)
-current_time = DateTime.now.utc.in_time_zone(timezone)
+current_time = Time.now.utc.in_time_zone(timezone)
 
 puts "Setting date in '#{filename}' to '#{current_time.iso8601}'"
 rewriter.replace_front_matter("date", current_time.iso8601)
