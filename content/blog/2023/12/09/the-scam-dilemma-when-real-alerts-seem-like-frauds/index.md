@@ -88,3 +88,4 @@ Ultimately I know it's hard to prevent scams from happening but my point is:
   - Either by having a similar alert when opening the app or
   - Have a menu item on the official hotline "If you have received a fraud notification press 7"
 
+*Attribution: [Traffic Signs Attention](https://pixabay.com/illustrations/traffic-signs-attention-a-notice-464641/) by [geralt](https://pixabay.com/users/geralt-9301/)*
