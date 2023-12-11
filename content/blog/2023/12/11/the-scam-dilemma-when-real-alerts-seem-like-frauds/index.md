@@ -1,6 +1,6 @@
 ---
 title: "The Scam Dilemma: When Real Alerts Seem Like Frauds"
-date: 2023-12-09T15:33:18-08:00
+date: 2023-12-11T08:26:52-08:00
 draft: false
 ---
 
@@ -89,3 +89,4 @@ Ultimately I know it's hard to prevent scams from happening but my point is:
   - Have a menu item on the official hotline "If you have received a fraud notification press 7"
 
 *Attribution: [Traffic Signs Attention](https://pixabay.com/illustrations/traffic-signs-attention-a-notice-464641/) by [geralt](https://pixabay.com/users/geralt-9301/)*
+
