@@ -8,18 +8,15 @@ params:
   rtl: false
   author:
     name: Leif Gensert
+    image: img/avatar.jpg
+    links:
+      - github: 'https://github.com/leifg'
+      - stack-overflow: 'https://stackoverflow.com/users/1087469/leifg'
+      - twitter: 'https://twitter.com/leifg'
+      - linkedin: 'https://linkedin.com/in/lgensert'
+      - instagram: 'https://instagram.com/leifg'
+      - facebook: 'https://facebook.com/lgensert'
+      - mastodon: 'https://hachyderm.io/@leifio'
 
 title: Leif Thoughts
 copyright: Leif Gensert
-
-author:
-  name: Leif Gensert
-  image: img/avatar.jpg
-  links:
-    - github: 'https://github.com/leifg'
-    - stack-overflow: 'https://stackoverflow.com/users/1087469/leifg'
-    - twitter: 'https://twitter.com/leifg'
-    - linkedin: 'https://linkedin.com/in/lgensert'
-    - instagram: 'https://instagram.com/leifg'
-    - facebook: 'https://facebook.com/lgensert'
-    - mastodon: 'https://hachyderm.io/@leifio'
