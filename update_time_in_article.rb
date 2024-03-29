@@ -1,8 +1,16 @@
+require 'bundler/inline'
+
+gemfile do
+  source "https://rubygems.org"
+
+  gem "front_matter_parser"
+  gem "activesupport"
+end
+
 require "time"
 require "fileutils"
 require "active_support/all"
 require "front_matter_parser"
-
 
 module TypeMapper
   extend self
