@@ -4,11 +4,11 @@ date: 2023-12-11T08:26:52-08:00
 draft: false
 ---
 
-It's hard to live the modern world without being constantly reminded to stay vigilant on the internet. Apps of large financial institutes remind us not to wire money to individuals we don't know, online market places scan your messages for phone numbers and raise red flags if you take conversations outside their platform and companies above a certain size have internal phishing tests that punish you with online training if you click on one of their planted phishing links. So if you want to pay attention and be a good citizen of the online space, you will learn the rules to properly detect a false alert. So much so that I would argue most people's default reaction to a potential threat is just to ignore it ("it's probably a scam"). But do legitimate notifications about problem hold up to the scrutiny of a lay person's phishing awareness?
+It's hard to live in the modern world without being constantly reminded to stay vigilant on the internet. Apps of large financial institutes remind us not to wire money to individuals we don't know, online market places scan your messages for phone numbers and raise red flags if you take conversations outside their platform and companies above a certain size have internal phishing tests that punish you with online training if you click on one of their planted phishing links. So if you want to pay attention and be a good citizen of the online space, you will learn the rules to properly detect a false alert. So much so that I would argue most people's default reaction to a potential threat is just to ignore it ("it's probably a scam"). But do legitimate notifications about a problem hold up under the scrutiny of the average person's phishing awareness?
 
-This is where I jump into my anecdote that happened to me in 2020 with Chase. Processes might have been improved in the meantime but it still illustrate the problem that regular people face when properly assessing if something is a real threat or not.
+This is where I jump into my anecdote that happened to me in 2020 with Chase. Processes might have been improved in the meantime but it still illustrates the problem that regular people face when properly assessing if something is a real threat or not.
 
-The backstory is as follows: I was on a long car trip and stopped at a gas station. For unimportant reasons I used my debit card instead of my credit card. The same night, while at a hotel I got an email from Chase notifying of a potential fraud of said card. The email looked like this:
+The backstory is as follows: I was on a long car trip and stopped at a gas station. For  reasons that are unimportant here, I used my debit card instead of my credit card. The same night, while at a hotel I got an email from Chase notifying of a potential fraud of said card. The email looked like this:
 
 ![Fraud Alert Email](chase_fraud_alert_email.png)
 
@@ -22,19 +22,19 @@ There are a couple of indicators that told me that this is a legitimate email by
 - The email originated from a sub domain of the official chase domain (fraudalert.chase.com)
 - The debit card I used matched the last 4 digits in the email
 
-But because I had some time, I put on my paranoia hat and wondered: could this be a scam? How would I mitigate the risk of getting my money/information stolen. And to be honest, the main thing the threw me off a little was that the email looked nothing like Chase's corporate design at the time.
+But because I had some time, I put on my paranoia hat and wondered: could this be a scam? How would I mitigate the risk of getting my money/information stolen. And to be honest, the main thing that threw me off a little was that the email looked nothing like Chase's corporate design at the time.
 
 Let's go through commonly given advice from all the phishing advice I've ever gotten and see if we can categorize this email as a threat or phishing.
 
 # Evaluate the Links in an Email
 
-One of the more common pieces of advices is "if there is a link in an email, at least check the URL and see whether it is a URL associated with the bank/organization by hovering over the links". There are two prominent buttons in these emails, so let's verify where they are going:
+One of the more common pieces of advice is "if there is a link in an email, at least check the URL and see whether it is a URL associated with the bank/organization by hovering over the links". There are two prominent buttons in these emails, so let's verify where they are going:
 
 ```
-http://tracking.csgipe.com/k/a/CIWZscg-TbBQdIu5mYmsp1~~/LEYJPOVI~/<344 ore characters>
+http://tracking.csgipe.com/k/a/CIWZscg-TbBQdIu5mYmsp1~~/LEYJPOVI~/<344 more characters>
 ```
 
-This domain is pretty far removed from chase.com. So based on that advice you should not click any of the links in the email. I realize it is properly some URL forwarder with tracking but is it really that important in a fraud alert email or couldn't you have at least add your tracking codes as a URL parameter?
+This domain is pretty far removed from chase.com. So based on that advice you should not click any of the links in the email. I realize it is probably some URL forwarder with tracking but is it really that important in a fraud alert email or couldn't you have at least add your tracking codes as a URL parameter?
 
 I however wanted to take it one step further. I realized that the URL probably just does a 3xx redirect and a simple curl request wouldn't hurt:
 
@@ -53,7 +53,7 @@ But let's continue.
 
 # Try to Contact your Bank in a Different Way
 
-One common advice is, when you get an email that requires action, don't immediately react, reach out to the organization in another way. The easiest way for me would have been to open the Chase app and verify that there I see the same fraud alert where I can then interact with it. I tried that, there was no alert whatsoever and even clicking through the menus did not show anything remotely related to that notification email.
+One common advice is, when you get an email that requires action, don't immediately react, reach out to the organization in another way. The easiest way for me would have been to open the Chase app and verify whether I see the same fraud alert or not. I tried that, there was no alert whatsoever and even clicking through the menus did not show anything remotely related to that notification email.
 
 Meaning that if I can't use Chase's app, the only way would have been to reach out via telephone. Which brings me to the next point.
 
