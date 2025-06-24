@@ -1,6 +1,5 @@
 ---
 title: "Blockchain - Schlockchain"
-layout: "simple"
 ---
 
 The blockchain universe is quite the universe. I have a lot of thoughts on this technology and I am taking a rather extreme position:

@@ -4,9 +4,8 @@ defaultContentLanguage: en
 enableRobotsTXT: false
 pluralizelisttitles: false
 permalinks:
-  posts: '/blog/:year/:month/:day/:slug/'
-taxonomies:
-  blog: blog
+  page:
+    posts: '/blog/:year/:month/:day/:slug/'
 timeout: 300s
 outputs:
   home:
