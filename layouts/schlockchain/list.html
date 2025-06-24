@@ -27,14 +27,18 @@
   {{ $pages := where .Site.RegularPages "Params.tags" "intersect" (slice "blockchain") }}
   {{ if gt $pages 0 }}
     <section>
-      {{ range (.Paginate ($pages.GroupByDate "2006")).PageGroups }}
-        {{ if $.Params.groupByYear | default ($.Site.Params.list.groupByYear | default true) }}
+      {{ if $.Params.groupByYear | default ($.Site.Params.list.groupByYear | default true) }}
+        {{ range (.Paginate ($pages.GroupByDate "2006")).PageGroups }}
           <h2 class="mt-12 text-2xl font-bold text-neutral-700 first:mt-8 dark:text-neutral-300">
             {{ .Key }}
           </h2>
           <hr class="w-36 border-dotted border-neutral-400" />
+          {{ range .Pages }}
+            {{ partial "article-link.html" . }}
+          {{ end }}
         {{ end }}
-        {{ range .Pages }}
+      {{ else }}
+        {{ range (.Paginate .Pages).Pages }}
           {{ partial "article-link.html" . }}
         {{ end }}
       {{ end }}
