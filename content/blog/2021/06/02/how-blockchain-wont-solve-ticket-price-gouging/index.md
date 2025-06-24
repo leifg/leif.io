@@ -36,7 +36,7 @@ What stops me from making a craigslist ad that says the following:
 
 > Hello there!
 >
-> I have 2 tickets to <insert popular artist>. The box office price is $50 each. If you wire $1000 to my bank account, I'll transfer ownership to you on the blockchain.
+> I have 2 tickets to &lt;insert popular artist&gt;. The box office price is $50 each. If you wire $1000 to my bank account, I'll transfer ownership to you on the blockchain.
 >
 > Price non-negotiable
 
